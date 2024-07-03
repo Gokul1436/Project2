@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+  
+}
+.nav-logo{
+    margin: 20px;
+    width: 50px;
+    margin-left: 100px;
+    display: inline-flex;
+}
+.nav-header{
+ display: inline-flex;
+ margin-top:10px;
+
+}
+.dd{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 79px;
+}
+
+ol{
+    display: inline-flex;
+}
+li{
+    display: inline-flex;
+    margin: 20px;
+}
+.h{
+    margin-left: 150px  ;
+}
+.btn12{
+    margin-left: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cart-btn{
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cart{
+    width: 20px;
+}
+.no{
+    background-color:transparent;
+    border: none;
+    cursor: pointer;
+}
+li{
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black; 
+}

@@ -1,0 +1,32 @@
+.ee{
+    background-color:white;
+    display: inline-flex;
+    
+}
+.item-header{
+    font-weight:600px;
+    padding-top: 20px;
+    text-align: center;
+   
+}
+.item-card{
+    width: 280px;
+    height: 420px;
+    display: inline-flex;
+    margin:25px;
+    justify-content: center;
+}
+.card-img-top{
+    height: 250px;
+}
+.price-new{
+  display: inline-flex;
+}
+.price-old{
+    display: inline-flex;
+    margin-left: 10px;
+    color: gray;
+}
+
+
+
